@@ -1,8 +1,0 @@
-cat > .gitignore << 'EOF'
-venv/
-__pycache__/
-.env
-*.pyc
-.streamlit/
-EOF
-cat .gitignore
